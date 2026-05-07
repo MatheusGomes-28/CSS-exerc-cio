@@ -1,0 +1,31 @@
+h1 {
+    color:  rgb(112, 197, 208);
+    text-align: center;
+    border: 1px solid black;
+}
+h2 {
+    color: rgb(150, 7, 155);
+}
+
+.paragrafo-verde {
+    color: rgb(46, 205, 94);
+    text-align: center;
+}
+
+.paragrafo-amarelo {
+    color: rgb(175, 175, 0);
+    border: 2px solid black ;
+}
+
+#douglas-especial {
+    color: orange;
+    text-align: right;
+}
+
+img {
+    width: 200;
+    height: 200;
+    border-radius: 20;
+    border: 3px solid black;
+    
+}
