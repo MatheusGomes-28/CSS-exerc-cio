@@ -68,3 +68,60 @@ code{
     border-radius: 8px;
     margin-bottom: 16px;
 }
+
+.botaovermelho:hover{
+    background-color: rgb(17, 224, 17);
+}
+
+.campo {
+    padding: 16px;
+}
+
+.campo label {
+    display: block;
+    font-size: 13px;
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+.campo input, .campo select {
+    width: 100%;
+    padding: 9px 12px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    color: #333;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.campo input:focus, .campo select:focus {
+    border-color:   rgb(0, 208, 255);
+    outline: none;
+    cursor: pointer;
+}
+
+.bnt-enviar {
+    padding: 10px 24px;
+    background-color: #2980b9;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-top: 6px;
+    margin-left: 16px;
+}
+
+.bnt-enviar:hover {
+    background-color: #1a5276;
+    
+}
+
+.campo input:hover {
+    cursor: text;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
